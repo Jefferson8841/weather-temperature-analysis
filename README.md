@@ -21,6 +21,7 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 - Tucumán and Mendoza: In Mendoza, rainfall increases significantly (around 800 mm) during the summer, coinciding with the heat. In contrast, Tucumán experiences little rainfall during the warmer months. A more in-depth analysis is needed to determine the source of this pattern.
 
 ## Visualizations
-![Average Temperature](images/Average_Monthly_Temperature_by_City.png)
-![Average Temperature](images/Precipitation_vs_Temperature_in_Buenos_Aires.png)
+![Average Temperature](images/average_monthly_temperature_by_city.png)
+![Average Temperature](images/precipitation_vs_temperature_in_buenos_aires.png)
+
 
