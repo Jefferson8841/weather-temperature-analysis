@@ -31,7 +31,7 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 
 ## Project Structure
 
-  
+```
     weather-temperature-analysis
     │
     ├── data
@@ -51,7 +51,7 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
     │   └── weather_temperature_analysis.ipynb
     │
     └── README.md
-
+```
 ## Key Insights
 - Mendoza shows the highest average temperatures among the analyzed cities.
 - A clear seasonal pattern is observed. Temperatures decrease between June and September, which corresponds to winter in the Southern Hemisphere
