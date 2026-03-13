@@ -30,7 +30,7 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 - Are there differences between 2023 and 2024 temperatures?
 
 ## Project Structure
-
+```
 weather-temperature-analysis
 │
 ├── data
@@ -50,7 +50,7 @@ weather-temperature-analysis
 │   └── weather_temperature_analysis.ipynb
 │
 └── README.md
-
+```
 ## Key Insights
 - Mendoza shows the highest average temperatures among the analyzed cities.
 - A clear seasonal pattern is observed. Temperatures decrease between June and September, which corresponds to winter in the Southern Hemisphere
