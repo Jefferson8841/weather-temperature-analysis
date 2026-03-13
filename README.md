@@ -23,5 +23,5 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 ## Visualizations
 ![Average Temperature](images/average_monthly_temperature_by_city.png)
 ![Average Temperature](images/precipitation_vs_temperature_in_buenos_aires.png)
-
+![Average Temperature](images/precipitation_vs_temperature_in_cordoba_rosario_mendoza_and_tucuman.png)
 
