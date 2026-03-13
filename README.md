@@ -32,6 +32,7 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 ## Project Structure
 
 ```text
+
 weather-temperature-analysis
 │
 ├── data
