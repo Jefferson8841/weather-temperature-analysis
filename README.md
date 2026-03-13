@@ -12,6 +12,13 @@ This project analyzes temperature and precipitation patterns across several citi
 ## Dataset
 The dataset contains monthly temperature and precipitation data for multiple Argentine cities during 2023–2024.
 
+## Analysis Questions
+
+- Which city has the highest average temperature?
+- How do temperatures vary across seasons?
+- Which city records the highest precipitation?
+- Are there differences between 2023 and 2024 temperatures?
+
 ## Key Insights
 - Mendoza shows the highest average temperatures among the analyzed cities.
 - A clear seasonal pattern is observed. Temperatures decrease between June and September, which corresponds to winter in the Southern Hemisphere
