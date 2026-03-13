@@ -31,26 +31,26 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 
 ## Project Structure
 
-```
-    weather-temperature-analysis
-    │
-    ├── data
-    │   └── temperature_data_arg_2023.csv
-    │
-    ├── images
-    │   └── average_min_temperature_by_city.png
-    │   └── average_max_temperature_by_city.png
-    │   └── average_monthly_temperatures_by_city.png
-    │   └── monthly_precipitation_by_city.png
-    │   └── precipitation_vs_temperature_in_buenos_aires.png
-    │   └── precipitation_vs_temperatures_in_cordoba_rosario_mendoza_and_tucuman.png
-    │   └── temperature_throughout_months
-    │   └── total_precipitation_by_city.png
-    │
-    ├── notebook
-    │   └── weather_temperature_analysis.ipynb
-    │
-    └── README.md
+```text
+weather-temperature-analysis
+│
+├── data
+│   └── temperature_data_arg_2023.csv
+│
+├── images
+│   └── average_min_temperature_by_city.png
+│   └── average_max_temperature_by_city.png
+│   └── average_monthly_temperatures_by_city.png
+│   └── monthly_precipitation_by_city.png
+│   └── precipitation_vs_temperature_in_buenos_aires.png
+│   └── precipitation_vs_temperatures_in_cordoba_rosario_mendoza_and_tucuman.png
+│   └── temperature_throughout_months
+│   └── total_precipitation_by_city.png
+│
+├── notebook
+│   └── weather_temperature_analysis.ipynb
+│
+└── README.md
 ```
 ## Key Insights
 - Mendoza shows the highest average temperatures among the analyzed cities.
