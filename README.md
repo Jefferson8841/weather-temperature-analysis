@@ -3,14 +3,24 @@
 ## Project Overview
 This project analyzes temperature and precipitation patterns across several cities in Argentina.
 
+## Dataset
+The dataset contains monthly temperature and precipitation data for multiple Argentine cities during 2023–2024.
+
+## Dataset Preview
+
+| Fecha         | Ciudad      | Temp_Max | Temp_Min | Precipitacion | Velocidad del Viento | Humedad Relativa|
+|---------------|-------------|----------|----------|---------------|----------------------|-----------------|
+| 2023-01-01    | Buenos Aires| 27       | 18       | 0.0           | 22.7                 | 68.8            |
+| 2023-01-01    | Cordoba     | 35       | 18       | 0.0           | 33.8                 | 61.7            |
+| 2023-01-01    | Tucuman     | 36       | 21       | 17.2          | 25.7                 | 54.9            |
+
+
 ## Tools
 - Python
 - Pandas
 - Matplotlib
 - Jupyter Notebook
 
-## Dataset
-The dataset contains monthly temperature and precipitation data for multiple Argentine cities during 2023–2024.
 
 ## Analysis Questions
 
@@ -34,3 +44,16 @@ The dataset contains monthly temperature and precipitation data for multiple Arg
 
 ![Average Temperature](images/precipitation_vs_temperature_in_cordoba_rosario_mendoza_and_tucuman.png)
 
+## How to Run the Project
+
+1. Clone the repository
+
+git clone https://github.com/Jefferson8841/weather-temperature-analysis.git
+
+2. Install dependencies
+
+pip install pandas matplotlib jupyter
+
+3. Open the notebook
+
+jupyter notebook
